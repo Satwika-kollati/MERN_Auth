@@ -93,11 +93,16 @@ Before you begin, ensure you have the following installed:
 4. Client stores the token in localStorage and updates the AuthContext.
 5. Protected routes check the AuthContext before rendering.
 
-##SignUp Page
+## Signup Page
+
 ![image](https://github.com/user-attachments/assets/c002d880-77ab-4f2b-a1a8-21d7d7ed1657)
-##Login Page
+
+## Login Page
+
 ![image](https://github.com/user-attachments/assets/7495d1a8-4320-4bb5-a9ef-67b89fde0353)
-##Home Page
+
+## Home Page
+
 ![image](https://github.com/user-attachments/assets/68539f26-4c87-49c8-8a17-68d2fccec666)
 
 
